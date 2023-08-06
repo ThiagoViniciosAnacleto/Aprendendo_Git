@@ -12,6 +12,8 @@ int main(){
 
     printf("Hello World!");
     printf("\n");
+
+    printf("Edição 2");
     
     return 0;
 }
